@@ -10,6 +10,7 @@ Indonesian puzzle game assets for:
 | **Asah Otak** | Brain Teaser | 228 |
 | **Tebak Negara** | Guess the Country | 194 |
 | **Cak Lontong** | Wordplay / Joke Game | 414 |
+| **Family 100** | Survey / Family Feud Game | 1,757 |
 
 ## Structure
 
@@ -20,10 +21,11 @@ Indonesian puzzle game assets for:
 ├── susun-kata/data.json   # Scrambled letters by category
 ├── tebak-negara/           # Flag images + country data with capital + region
 ├── asah-otak/data.json    # General knowledge trivia
+├── family-100/data.json   # Survey questions with multiple answers
 └── cak-lontong/data.json  # Misleading questions with pun answers
 ```
 
-- **Total files:** 5 JSON data files
+- **Total files:** 6 JSON data files
 
 ## Data Format
 
@@ -54,6 +56,11 @@ Indonesian puzzle game assets for:
 ### asah-otak
 ```json
 { "soal": "question", "jawaban": "answer" }
+```
+
+### family-100
+```json
+{ "soal": "Pertanyaan survey", "jawaban": ["jawaban1", "jawaban2", ...] }
 ```
 
 ### cak-lontong
