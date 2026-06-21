@@ -8,6 +8,7 @@ Indonesian puzzle game assets for:
 | **Tebak Kata** | Guess the Word | 302 |
 | **Susun Kata** | Arrange the Word | 356 |
 | **Asah Otak** | Brain Teaser | 228 |
+| **Tebak Bendera** | Guess the Flag | 197 |
 | **Cak Lontong** | Wordplay / Joke Game | 414 |
 
 ## Structure
@@ -17,6 +18,7 @@ Indonesian puzzle game assets for:
 │   └── data.json          # Questions + answers + URLs
 ├── tebak-kata/data.json   # Clue-based word puzzles
 ├── susun-kata/data.json   # Scrambled letters by category
+├── tebak-bendera/data.json # Flag image URLs + country names
 ├── asah-otak/data.json    # General knowledge trivia
 └── cak-lontong/data.json  # Misleading questions with pun answers
 ```
@@ -32,6 +34,11 @@ Indonesian puzzle game assets for:
     { "img": "url.jpg", "jawaban": "answer", "deskripsi": "hint" }
   ]
 }
+```
+
+### tebak-bendera
+```json
+{ "img": "url", "jawaban": "country_name" }
 ```
 
 ### tebak-kata
