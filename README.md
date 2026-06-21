@@ -10,22 +10,34 @@ Indonesian puzzle game assets for:
 | **Asah Otak** | Brain Teaser | 228 |
 | **Tebak Negara** | Guess the Country | 194 |
 | **Cak Lontong** | Wordplay / Joke Game | 414 |
+| **Sambung Kata** | Chain Word Game | 71,332 |
 | **Family 100** | Survey / Family Feud Game | 7,162 |
 
 ## Structure
 
 ```
 ├── tebak-gambar/
-│   └── data.json          # Questions + answers + URLs
-├── tebak-kata/data.json   # Clue-based word puzzles
-├── susun-kata/data.json   # Scrambled letters by category
-├── tebak-negara/           # Flag images + country data with capital + region
-├── asah-otak/data.json    # General knowledge trivia
-├── family-100/data.json   # Survey questions with multiple answers
-└── cak-lontong/data.json  # Misleading questions with pun answers
+│   ├── data.json          # Questions + answers + URLs
+│   └── images/            # Downloaded level images
+├── tebak-kata/
+│   └── data.json          # Clue-based word puzzles
+├── susun-kata/
+│   └── data.json          # Scrambled letters by category
+├── tebak-negara/
+│   ├── data.json          # Country data with capital + region
+│   ├── images/            # Flag images
+│   └── scrape.py          # Data scraper
+├── asah-otak/
+│   └── data.json          # General knowledge trivia
+├── sambung-kata/
+│   └── data.txt           # Word list (one per line)
+├── family-100/
+│   └── data.json          # Survey questions with multiple answers
+└── cak-lontong/
+    └── data.json          # Misleading questions with pun answers
 ```
 
-- **Total files:** 6 JSON data files
+- **Total files:** 7 JSON + 1 TXT data files
 
 ## Data Format
 
