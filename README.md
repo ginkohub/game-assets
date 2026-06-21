@@ -10,7 +10,7 @@ Indonesian puzzle game assets for:
 | **Asah Otak** | Brain Teaser | 228 |
 | **Tebak Negara** | Guess the Country | 194 |
 | **Cak Lontong** | Wordplay / Joke Game | 414 |
-| **Family 100** | Survey / Family Feud Game | 1,757 |
+| **Family 100** | Survey / Family Feud Game | 7,162 |
 
 ## Structure
 
