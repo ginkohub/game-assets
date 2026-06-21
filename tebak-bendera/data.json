@@ -1,786 +1,1166 @@
 [
   {
-    "img": "images/afghanistan.png",
-    "jawaban": "Afghanistan"
+    "bendera": "images/afghanistan.png",
+    "negara": "Afghanistan",
+    "wilayah": "Asia",
+    "ibukota": "Kabul"
   },
   {
-    "img": "images/albania.png",
-    "jawaban": "Albania"
+    "bendera": "images/albania.png",
+    "negara": "Albania",
+    "wilayah": "Europe",
+    "ibukota": "Tirana"
   },
   {
-    "img": "images/algeria.png",
-    "jawaban": "Algeria"
+    "bendera": "images/algeria.png",
+    "negara": "Algeria",
+    "wilayah": "Africa",
+    "ibukota": "Algiers"
   },
   {
-    "img": "images/andorra.png",
-    "jawaban": "Andorra"
+    "bendera": "images/andorra.png",
+    "negara": "Andorra",
+    "wilayah": "Europe",
+    "ibukota": "Andorra la Vella"
   },
   {
-    "img": "images/angola.png",
-    "jawaban": "Angola"
+    "bendera": "images/angola.png",
+    "negara": "Angola",
+    "wilayah": "Africa",
+    "ibukota": "Luanda"
   },
   {
-    "img": "images/antigua-and-barbuda.png",
-    "jawaban": "Antigua and Barbuda"
+    "bendera": "images/antigua-and-barbuda.png",
+    "negara": "Antigua and Barbuda",
+    "wilayah": "North America",
+    "ibukota": "St. John's"
   },
   {
-    "img": "images/argentina.png",
-    "jawaban": "Argentina"
+    "bendera": "images/argentina.png",
+    "negara": "Argentina",
+    "wilayah": "South America",
+    "ibukota": "Buenos Aires"
   },
   {
-    "img": "images/armenia.png",
-    "jawaban": "Armenia"
+    "bendera": "images/armenia.png",
+    "negara": "Armenia",
+    "wilayah": "Asia",
+    "ibukota": "Yerevan"
   },
   {
-    "img": "images/australia.png",
-    "jawaban": "Australia"
+    "bendera": "images/australia.png",
+    "negara": "Australia",
+    "wilayah": "Oceania",
+    "ibukota": "Canberra"
   },
   {
-    "img": "images/austria.png",
-    "jawaban": "Austria"
+    "bendera": "images/austria.png",
+    "negara": "Austria",
+    "wilayah": "Europe",
+    "ibukota": "Vienna"
   },
   {
-    "img": "images/azerbaijan.png",
-    "jawaban": "Azerbaijan"
+    "bendera": "images/azerbaijan.png",
+    "negara": "Azerbaijan",
+    "wilayah": "Asia",
+    "ibukota": "Baku"
   },
   {
-    "img": "images/bahamas.png",
-    "jawaban": "Bahamas"
+    "bendera": "images/bahamas.png",
+    "negara": "Bahamas",
+    "wilayah": "North America",
+    "ibukota": "Nassau"
   },
   {
-    "img": "images/bahrain.png",
-    "jawaban": "Bahrain"
+    "bendera": "images/bahrain.png",
+    "negara": "Bahrain",
+    "wilayah": "Asia",
+    "ibukota": "Manama"
   },
   {
-    "img": "images/bangladesh.png",
-    "jawaban": "Bangladesh"
+    "bendera": "images/bangladesh.png",
+    "negara": "Bangladesh",
+    "wilayah": "Asia",
+    "ibukota": "Dhaka"
   },
   {
-    "img": "images/barbados.png",
-    "jawaban": "Barbados"
+    "bendera": "images/barbados.png",
+    "negara": "Barbados",
+    "wilayah": "North America",
+    "ibukota": "Bridgetown"
   },
   {
-    "img": "images/belarus.png",
-    "jawaban": "Belarus"
+    "bendera": "images/belarus.png",
+    "negara": "Belarus",
+    "wilayah": "Europe",
+    "ibukota": "Minsk"
   },
   {
-    "img": "images/belgium.png",
-    "jawaban": "Belgium"
+    "bendera": "images/belgium.png",
+    "negara": "Belgium",
+    "wilayah": "Europe",
+    "ibukota": "Brussels"
   },
   {
-    "img": "images/belize.png",
-    "jawaban": "Belize"
+    "bendera": "images/belize.png",
+    "negara": "Belize",
+    "wilayah": "North America",
+    "ibukota": "Belmopan"
   },
   {
-    "img": "images/benin.png",
-    "jawaban": "Benin"
+    "bendera": "images/benin.png",
+    "negara": "Benin",
+    "wilayah": "Africa",
+    "ibukota": "Porto-Novo"
   },
   {
-    "img": "images/bhutan.png",
-    "jawaban": "Bhutan"
+    "bendera": "images/bhutan.png",
+    "negara": "Bhutan",
+    "wilayah": "Asia",
+    "ibukota": "Thimphu"
   },
   {
-    "img": "images/bolivia.png",
-    "jawaban": "Bolivia"
+    "bendera": "images/bolivia.png",
+    "negara": "Bolivia",
+    "wilayah": "South America",
+    "ibukota": "Sucre"
   },
   {
-    "img": "images/bosnia-and-herzegovina.png",
-    "jawaban": "Bosnia and Herzegovina"
+    "bendera": "images/bosnia-and-herzegovina.png",
+    "negara": "Bosnia and Herzegovina",
+    "wilayah": "Europe",
+    "ibukota": "Sarajevo"
   },
   {
-    "img": "images/botswana.png",
-    "jawaban": "Botswana"
+    "bendera": "images/botswana.png",
+    "negara": "Botswana",
+    "wilayah": "Africa",
+    "ibukota": "Gaborone"
   },
   {
-    "img": "images/brazil.png",
-    "jawaban": "Brazil"
+    "bendera": "images/brazil.png",
+    "negara": "Brazil",
+    "wilayah": "South America",
+    "ibukota": "Brasilia"
   },
   {
-    "img": "images/brunei.png",
-    "jawaban": "Brunei"
+    "bendera": "images/brunei.png",
+    "negara": "Brunei",
+    "wilayah": "Asia",
+    "ibukota": "Bandar Seri Begawan"
   },
   {
-    "img": "images/bulgaria.png",
-    "jawaban": "Bulgaria"
+    "bendera": "images/bulgaria.png",
+    "negara": "Bulgaria",
+    "wilayah": "Europe",
+    "ibukota": "Sofia"
   },
   {
-    "img": "images/burkina-faso.png",
-    "jawaban": "Burkina Faso"
+    "bendera": "images/burkina-faso.png",
+    "negara": "Burkina Faso",
+    "wilayah": "Africa",
+    "ibukota": "Ouagadougou"
   },
   {
-    "img": "images/burundi.png",
-    "jawaban": "Burundi"
+    "bendera": "images/burundi.png",
+    "negara": "Burundi",
+    "wilayah": "Africa",
+    "ibukota": "Gitega"
   },
   {
-    "img": "images/cambodia.png",
-    "jawaban": "Cambodia"
+    "bendera": "images/cambodia.png",
+    "negara": "Cambodia",
+    "wilayah": "Asia",
+    "ibukota": "Phnom Penh"
   },
   {
-    "img": "images/cameroon.png",
-    "jawaban": "Cameroon"
+    "bendera": "images/cameroon.png",
+    "negara": "Cameroon",
+    "wilayah": "Africa",
+    "ibukota": "Yaounde"
   },
   {
-    "img": "images/canada.png",
-    "jawaban": "Canada"
+    "bendera": "images/canada.png",
+    "negara": "Canada",
+    "wilayah": "North America",
+    "ibukota": "Ottawa"
   },
   {
-    "img": "images/cape-verde.png",
-    "jawaban": "Cape Verde"
+    "bendera": "images/cape-verde.png",
+    "negara": "Cape Verde",
+    "wilayah": "Africa",
+    "ibukota": "Praia"
   },
   {
-    "img": "images/central-african-republic.png",
-    "jawaban": "Central African Republic"
+    "bendera": "images/central-african-republic.png",
+    "negara": "Central African Republic",
+    "wilayah": "Africa",
+    "ibukota": "Bangui"
   },
   {
-    "img": "images/chad.png",
-    "jawaban": "Chad"
+    "bendera": "images/chad.png",
+    "negara": "Chad",
+    "wilayah": "Africa",
+    "ibukota": "N'Djamena"
   },
   {
-    "img": "images/chile.png",
-    "jawaban": "Chile"
+    "bendera": "images/chile.png",
+    "negara": "Chile",
+    "wilayah": "South America",
+    "ibukota": "Santiago"
   },
   {
-    "img": "images/china.png",
-    "jawaban": "China"
+    "bendera": "images/china.png",
+    "negara": "China",
+    "wilayah": "Asia",
+    "ibukota": "Beijing"
   },
   {
-    "img": "images/colombia.png",
-    "jawaban": "Colombia"
+    "bendera": "images/colombia.png",
+    "negara": "Colombia",
+    "wilayah": "South America",
+    "ibukota": "Bogota"
   },
   {
-    "img": "images/comoros.png",
-    "jawaban": "Comoros"
+    "bendera": "images/comoros.png",
+    "negara": "Comoros",
+    "wilayah": "Africa",
+    "ibukota": "Moroni"
   },
   {
-    "img": "images/costa-rica.png",
-    "jawaban": "Costa Rica"
+    "bendera": "images/costa-rica.png",
+    "negara": "Costa Rica",
+    "wilayah": "North America",
+    "ibukota": "San Jose"
   },
   {
-    "img": "images/croatia.png",
-    "jawaban": "Croatia"
+    "bendera": "images/croatia.png",
+    "negara": "Croatia",
+    "wilayah": "Europe",
+    "ibukota": "Zagreb"
   },
   {
-    "img": "images/cuba.png",
-    "jawaban": "Cuba"
+    "bendera": "images/cuba.png",
+    "negara": "Cuba",
+    "wilayah": "North America",
+    "ibukota": "Havana"
   },
   {
-    "img": "images/cyprus.png",
-    "jawaban": "Cyprus"
+    "bendera": "images/cyprus.png",
+    "negara": "Cyprus",
+    "wilayah": "Europe",
+    "ibukota": "Nicosia"
   },
   {
-    "img": "images/czech-republic.png",
-    "jawaban": "Czech Republic"
+    "bendera": "images/czech-republic.png",
+    "negara": "Czech Republic",
+    "wilayah": "Europe",
+    "ibukota": "Prague"
   },
   {
-    "img": "images/democratic-republic-of-the-congo.png",
-    "jawaban": "Democratic Republic of the Congo"
+    "bendera": "images/democratic-republic-of-the-congo.png",
+    "negara": "Democratic Republic of the Congo",
+    "wilayah": "Africa",
+    "ibukota": "Kinshasa"
   },
   {
-    "img": "images/denmark.png",
-    "jawaban": "Denmark"
+    "bendera": "images/denmark.png",
+    "negara": "Denmark",
+    "wilayah": "Europe",
+    "ibukota": "Copenhagen"
   },
   {
-    "img": "images/djibouti.png",
-    "jawaban": "Djibouti"
+    "bendera": "images/djibouti.png",
+    "negara": "Djibouti",
+    "wilayah": "Africa",
+    "ibukota": "Djibouti"
   },
   {
-    "img": "images/dominica.png",
-    "jawaban": "Dominica"
+    "bendera": "images/dominica.png",
+    "negara": "Dominica",
+    "wilayah": "North America",
+    "ibukota": "Roseau"
   },
   {
-    "img": "images/dominican-republic.png",
-    "jawaban": "Dominican republic"
+    "bendera": "images/dominican-republic.png",
+    "negara": "Dominican republic",
+    "wilayah": "North America",
+    "ibukota": "Santo Domingo"
   },
   {
-    "img": "images/ecuador.png",
-    "jawaban": "Ecuador"
+    "bendera": "images/ecuador.png",
+    "negara": "Ecuador",
+    "wilayah": "South America",
+    "ibukota": "Quito"
   },
   {
-    "img": "images/egypt.png",
-    "jawaban": "Egypt"
+    "bendera": "images/egypt.png",
+    "negara": "Egypt",
+    "wilayah": "Africa",
+    "ibukota": "Cairo"
   },
   {
-    "img": "images/el-salvador.png",
-    "jawaban": "El Salvador"
+    "bendera": "images/el-salvador.png",
+    "negara": "El Salvador",
+    "wilayah": "North America",
+    "ibukota": "San Salvador"
   },
   {
-    "img": "images/equatorial-guinea.png",
-    "jawaban": "Equatorial Guinea"
+    "bendera": "images/equatorial-guinea.png",
+    "negara": "Equatorial Guinea",
+    "wilayah": "Africa",
+    "ibukota": "Ciudad de la Paz"
   },
   {
-    "img": "images/eritrea.png",
-    "jawaban": "Eritrea"
+    "bendera": "images/eritrea.png",
+    "negara": "Eritrea",
+    "wilayah": "Africa",
+    "ibukota": "Asmara"
   },
   {
-    "img": "images/estonia.png",
-    "jawaban": "Estonia"
+    "bendera": "images/estonia.png",
+    "negara": "Estonia",
+    "wilayah": "Europe",
+    "ibukota": "Tallinn"
   },
   {
-    "img": "images/eswatini.png",
-    "jawaban": "Eswatini"
+    "bendera": "images/eswatini.png",
+    "negara": "Eswatini",
+    "wilayah": "Africa",
+    "ibukota": "Lobamba"
   },
   {
-    "img": "images/ethiopia.png",
-    "jawaban": "Ethiopia"
+    "bendera": "images/ethiopia.png",
+    "negara": "Ethiopia",
+    "wilayah": "Africa",
+    "ibukota": "Addis Ababa"
   },
   {
-    "img": "images/fiji.png",
-    "jawaban": "Fiji"
+    "bendera": "images/fiji.png",
+    "negara": "Fiji",
+    "wilayah": "Insular Oceania",
+    "ibukota": "Suva"
   },
   {
-    "img": "images/finland.png",
-    "jawaban": "Finland"
+    "bendera": "images/finland.png",
+    "negara": "Finland",
+    "wilayah": "Europe",
+    "ibukota": "Helsinki"
   },
   {
-    "img": "images/france.png",
-    "jawaban": "France"
+    "bendera": "images/france.png",
+    "negara": "France",
+    "wilayah": "Europe",
+    "ibukota": "Paris"
   },
   {
-    "img": "images/gabon.png",
-    "jawaban": "Gabon"
+    "bendera": "images/gabon.png",
+    "negara": "Gabon",
+    "wilayah": "Africa",
+    "ibukota": "Libreville"
   },
   {
-    "img": "images/gambia.png",
-    "jawaban": "Gambia"
+    "bendera": "images/gambia.png",
+    "negara": "Gambia",
+    "wilayah": "Africa",
+    "ibukota": "Banjul"
   },
   {
-    "img": "images/georgia.png",
-    "jawaban": "Georgia"
+    "bendera": "images/georgia.png",
+    "negara": "Georgia",
+    "wilayah": "Europe",
+    "ibukota": "Tbilisi"
   },
   {
-    "img": "images/germany.png",
-    "jawaban": "Germany"
+    "bendera": "images/germany.png",
+    "negara": "Germany",
+    "wilayah": "Europe",
+    "ibukota": "Berlin"
   },
   {
-    "img": "images/ghana.png",
-    "jawaban": "Ghana"
+    "bendera": "images/ghana.png",
+    "negara": "Ghana",
+    "wilayah": "Africa",
+    "ibukota": "Accra"
   },
   {
-    "img": "images/greece.png",
-    "jawaban": "Greece"
+    "bendera": "images/greece.png",
+    "negara": "Greece",
+    "wilayah": "Europe",
+    "ibukota": "Athens"
   },
   {
-    "img": "images/grenada.png",
-    "jawaban": "Grenada"
+    "bendera": "images/grenada.png",
+    "negara": "Grenada",
+    "wilayah": "North America",
+    "ibukota": "St. George's"
   },
   {
-    "img": "images/guatemala.png",
-    "jawaban": "Guatemala"
+    "bendera": "images/guatemala.png",
+    "negara": "Guatemala",
+    "wilayah": "North America",
+    "ibukota": "Guatemala City"
   },
   {
-    "img": "images/guinea.png",
-    "jawaban": "Guinea"
+    "bendera": "images/guinea.png",
+    "negara": "Guinea",
+    "wilayah": "Africa",
+    "ibukota": "Conakry"
   },
   {
-    "img": "images/guinea-bissau.png",
-    "jawaban": "Guinea-Bissau"
+    "bendera": "images/guinea-bissau.png",
+    "negara": "Guinea-Bissau",
+    "wilayah": "Africa",
+    "ibukota": "Bissau"
   },
   {
-    "img": "images/guyana.png",
-    "jawaban": "Guyana"
+    "bendera": "images/guyana.png",
+    "negara": "Guyana",
+    "wilayah": "South America",
+    "ibukota": "Georgetown"
   },
   {
-    "img": "images/haiti.png",
-    "jawaban": "Haiti"
+    "bendera": "images/haiti.png",
+    "negara": "Haiti",
+    "wilayah": "North America",
+    "ibukota": "Port-au-Prince"
   },
   {
-    "img": "images/honduras.png",
-    "jawaban": "Honduras"
+    "bendera": "images/honduras.png",
+    "negara": "Honduras",
+    "wilayah": "North America",
+    "ibukota": "Tegucigalpa"
   },
   {
-    "img": "images/hungary.png",
-    "jawaban": "Hungary"
+    "bendera": "images/hungary.png",
+    "negara": "Hungary",
+    "wilayah": "Europe",
+    "ibukota": "Budapest"
   },
   {
-    "img": "images/iceland.png",
-    "jawaban": "Iceland"
+    "bendera": "images/iceland.png",
+    "negara": "Iceland",
+    "wilayah": "Europe",
+    "ibukota": "Reykjavik"
   },
   {
-    "img": "images/india.png",
-    "jawaban": "India"
+    "bendera": "images/india.png",
+    "negara": "India",
+    "wilayah": "Asia",
+    "ibukota": "New Delhi"
   },
   {
-    "img": "images/indonesia.png",
-    "jawaban": "Indonesia"
+    "bendera": "images/indonesia.png",
+    "negara": "Indonesia",
+    "wilayah": "Asia",
+    "ibukota": "Jakarta"
   },
   {
-    "img": "images/iran.png",
-    "jawaban": "Iran"
+    "bendera": "images/iran.png",
+    "negara": "Iran",
+    "wilayah": "Asia",
+    "ibukota": "Tehran"
   },
   {
-    "img": "images/iraq.png",
-    "jawaban": "Iraq"
+    "bendera": "images/iraq.png",
+    "negara": "Iraq",
+    "wilayah": "Asia",
+    "ibukota": "Baghdad"
   },
   {
-    "img": "images/ireland.png",
-    "jawaban": "Ireland"
+    "bendera": "images/ireland.png",
+    "negara": "Ireland",
+    "wilayah": "Europe",
+    "ibukota": "Dublin"
   },
   {
-    "img": "images/israel.png",
-    "jawaban": "Israel"
+    "bendera": "images/italy.png",
+    "negara": "Italy",
+    "wilayah": "Europe",
+    "ibukota": "Rome"
   },
   {
-    "img": "images/italy.png",
-    "jawaban": "Italy"
+    "bendera": "images/ivory-coast.png",
+    "negara": "Ivory Coast",
+    "wilayah": "Africa",
+    "ibukota": "Yamoussoukro"
   },
   {
-    "img": "images/ivory-coast.png",
-    "jawaban": "Ivory Coast"
+    "bendera": "images/jamaica.png",
+    "negara": "Jamaica",
+    "wilayah": "North America",
+    "ibukota": "Kingston"
   },
   {
-    "img": "images/jamaica.png",
-    "jawaban": "Jamaica"
+    "bendera": "images/japan.png",
+    "negara": "Japan",
+    "wilayah": "Asia",
+    "ibukota": "Tokyo"
   },
   {
-    "img": "images/japan.png",
-    "jawaban": "Japan"
+    "bendera": "images/jordan.png",
+    "negara": "Jordan",
+    "wilayah": "Asia",
+    "ibukota": "Amman"
   },
   {
-    "img": "images/jordan.png",
-    "jawaban": "Jordan"
+    "bendera": "images/kazakhstan.png",
+    "negara": "Kazakhstan",
+    "wilayah": "Asia",
+    "ibukota": "Astana"
   },
   {
-    "img": "images/kazakhstan.png",
-    "jawaban": "Kazakhstan"
+    "bendera": "images/kenya.png",
+    "negara": "Kenya",
+    "wilayah": "Africa",
+    "ibukota": "Nairobi"
   },
   {
-    "img": "images/kenya.png",
-    "jawaban": "Kenya"
+    "bendera": "images/kiribati.png",
+    "negara": "Kiribati",
+    "wilayah": "Oceania",
+    "ibukota": "South Tarawa"
   },
   {
-    "img": "images/kiribati.png",
-    "jawaban": "Kiribati"
+    "bendera": "images/kuwait.png",
+    "negara": "Kuwait",
+    "wilayah": "Asia",
+    "ibukota": "Kuwait City"
   },
   {
-    "img": "images/kuwait.png",
-    "jawaban": "Kuwait"
+    "bendera": "images/kyrgyzstan.png",
+    "negara": "Kyrgyzstan",
+    "wilayah": "Asia",
+    "ibukota": "Bishkek"
   },
   {
-    "img": "images/kyrgyzstan.png",
-    "jawaban": "Kyrgyzstan"
+    "bendera": "images/laos.png",
+    "negara": "Laos",
+    "wilayah": "Asia",
+    "ibukota": "Vientiane"
   },
   {
-    "img": "images/laos.png",
-    "jawaban": "Laos"
+    "bendera": "images/latvia.png",
+    "negara": "Latvia",
+    "wilayah": "Europe",
+    "ibukota": "Riga"
   },
   {
-    "img": "images/latvia.png",
-    "jawaban": "Latvia"
+    "bendera": "images/lebanon.png",
+    "negara": "Lebanon",
+    "wilayah": "Asia",
+    "ibukota": "Beirut"
   },
   {
-    "img": "images/lebanon.png",
-    "jawaban": "Lebanon"
+    "bendera": "images/lesotho.png",
+    "negara": "Lesotho",
+    "wilayah": "Africa",
+    "ibukota": "Maseru"
   },
   {
-    "img": "images/lesotho.png",
-    "jawaban": "Lesotho"
+    "bendera": "images/liberia.png",
+    "negara": "Liberia",
+    "wilayah": "Africa",
+    "ibukota": "Monrovia"
   },
   {
-    "img": "images/liberia.png",
-    "jawaban": "Liberia"
+    "bendera": "images/libya.png",
+    "negara": "Libya",
+    "wilayah": "Africa",
+    "ibukota": "Tripoli"
   },
   {
-    "img": "images/libya.png",
-    "jawaban": "Libya"
+    "bendera": "images/liechtenstein.png",
+    "negara": "Liechtenstein",
+    "wilayah": "Europe",
+    "ibukota": "Vaduz"
   },
   {
-    "img": "images/liechtenstein.png",
-    "jawaban": "Liechtenstein"
+    "bendera": "images/lithuania.png",
+    "negara": "Lithuania",
+    "wilayah": "Europe",
+    "ibukota": "Vilnius"
   },
   {
-    "img": "images/lithuania.png",
-    "jawaban": "Lithuania"
+    "bendera": "images/luxembourg.png",
+    "negara": "Luxembourg",
+    "wilayah": "Europe",
+    "ibukota": "Luxembourg"
   },
   {
-    "img": "images/luxembourg.png",
-    "jawaban": "Luxembourg"
+    "bendera": "images/madagascar.png",
+    "negara": "Madagascar",
+    "wilayah": "Africa",
+    "ibukota": "Antananarivo"
   },
   {
-    "img": "images/madagascar.png",
-    "jawaban": "Madagascar"
+    "bendera": "images/malawi.png",
+    "negara": "Malawi",
+    "wilayah": "Africa",
+    "ibukota": "Lilongwe"
   },
   {
-    "img": "images/malawi.png",
-    "jawaban": "Malawi"
+    "bendera": "images/malaysia.png",
+    "negara": "Malaysia",
+    "wilayah": "Asia",
+    "ibukota": "Kuala Lumpur"
   },
   {
-    "img": "images/malaysia.png",
-    "jawaban": "Malaysia"
+    "bendera": "images/maldives.png",
+    "negara": "Maldives",
+    "wilayah": "Asia",
+    "ibukota": "Male"
   },
   {
-    "img": "images/maldives.png",
-    "jawaban": "Maldives"
+    "bendera": "images/mali.png",
+    "negara": "Mali",
+    "wilayah": "Africa",
+    "ibukota": "Bamako"
   },
   {
-    "img": "images/mali.png",
-    "jawaban": "Mali"
+    "bendera": "images/malta.png",
+    "negara": "Malta",
+    "wilayah": "Europe",
+    "ibukota": "Valletta"
   },
   {
-    "img": "images/malta.png",
-    "jawaban": "Malta"
+    "bendera": "images/marshall-islands.png",
+    "negara": "Marshall Islands",
+    "wilayah": "Oceania",
+    "ibukota": "Majuro"
   },
   {
-    "img": "images/marshall-islands.png",
-    "jawaban": "Marshall Islands"
+    "bendera": "images/mauritania.png",
+    "negara": "Mauritania",
+    "wilayah": "Africa",
+    "ibukota": "Nouakchott"
   },
   {
-    "img": "images/mauritania.png",
-    "jawaban": "Mauritania"
+    "bendera": "images/mauritius.png",
+    "negara": "Mauritius",
+    "wilayah": "Africa",
+    "ibukota": "Port Louis"
   },
   {
-    "img": "images/mauritius.png",
-    "jawaban": "Mauritius"
+    "bendera": "images/mexico.png",
+    "negara": "Mexico",
+    "wilayah": "North America",
+    "ibukota": "Mexico City"
   },
   {
-    "img": "images/mexico.png",
-    "jawaban": "Mexico"
+    "bendera": "images/micronesia.png",
+    "negara": "Micronesia",
+    "wilayah": "Oceania",
+    "ibukota": "Palikir"
   },
   {
-    "img": "images/micronesia.png",
-    "jawaban": "Micronesia"
+    "bendera": "images/moldova.png",
+    "negara": "Moldova",
+    "wilayah": "Europe",
+    "ibukota": "Chisinau"
   },
   {
-    "img": "images/moldova.png",
-    "jawaban": "Moldova"
+    "bendera": "images/monaco.png",
+    "negara": "Monaco",
+    "wilayah": "Europe",
+    "ibukota": "Monaco City"
   },
   {
-    "img": "images/monaco.png",
-    "jawaban": "Monaco"
+    "bendera": "images/mongolia.png",
+    "negara": "Mongolia",
+    "wilayah": "Asia",
+    "ibukota": "Ulaanbaatar"
   },
   {
-    "img": "images/mongolia.png",
-    "jawaban": "Mongolia"
+    "bendera": "images/montenegro.png",
+    "negara": "Montenegro",
+    "wilayah": "Europe",
+    "ibukota": "Podgorica"
   },
   {
-    "img": "images/montenegro.png",
-    "jawaban": "Montenegro"
+    "bendera": "images/morocco.png",
+    "negara": "Morocco",
+    "wilayah": "Africa",
+    "ibukota": "Rabat"
   },
   {
-    "img": "images/morocco.png",
-    "jawaban": "Morocco"
+    "bendera": "images/mozambique.png",
+    "negara": "Mozambique",
+    "wilayah": "Africa",
+    "ibukota": "Maputo"
   },
   {
-    "img": "images/mozambique.png",
-    "jawaban": "Mozambique"
+    "bendera": "images/myanmar.png",
+    "negara": "Myanmar",
+    "wilayah": "Asia",
+    "ibukota": "Naypyidaw"
   },
   {
-    "img": "images/myanmar.png",
-    "jawaban": "Myanmar"
+    "bendera": "images/namibia.png",
+    "negara": "Namibia",
+    "wilayah": "Africa",
+    "ibukota": "Windhoek"
   },
   {
-    "img": "images/namibia.png",
-    "jawaban": "Namibia"
+    "bendera": "images/nauru.png",
+    "negara": "Nauru",
+    "wilayah": "Oceania",
+    "ibukota": "Yaren District"
   },
   {
-    "img": "images/nauru.png",
-    "jawaban": "Nauru"
+    "bendera": "images/nepal.png",
+    "negara": "Nepal",
+    "wilayah": "Asia",
+    "ibukota": "Kathmandu"
   },
   {
-    "img": "images/nepal.png",
-    "jawaban": "Nepal"
+    "bendera": "images/netherlands.png",
+    "negara": "Netherlands",
+    "wilayah": "Europe",
+    "ibukota": "Amsterdam"
   },
   {
-    "img": "images/netherlands.png",
-    "jawaban": "Netherlands"
+    "bendera": "images/new-zealand.png",
+    "negara": "New Zealand",
+    "wilayah": "Oceania",
+    "ibukota": "Wellington"
   },
   {
-    "img": "images/new-zealand.png",
-    "jawaban": "New Zealand"
+    "bendera": "images/nicaragua.png",
+    "negara": "Nicaragua",
+    "wilayah": "North America",
+    "ibukota": "Managua"
   },
   {
-    "img": "images/nicaragua.png",
-    "jawaban": "Nicaragua"
+    "bendera": "images/niger.png",
+    "negara": "Niger",
+    "wilayah": "Africa",
+    "ibukota": "Niamey"
   },
   {
-    "img": "images/niger.png",
-    "jawaban": "Niger"
+    "bendera": "images/nigeria.png",
+    "negara": "Nigeria",
+    "wilayah": "Africa",
+    "ibukota": "Abuja"
   },
   {
-    "img": "images/nigeria.png",
-    "jawaban": "Nigeria"
+    "bendera": "images/north-korea.png",
+    "negara": "North Korea",
+    "wilayah": "Asia",
+    "ibukota": "Pyongyang"
   },
   {
-    "img": "images/north-korea.png",
-    "jawaban": "North Korea"
+    "bendera": "images/north-macedonia.png",
+    "negara": "North Macedonia",
+    "wilayah": "Europe",
+    "ibukota": "Skopje"
   },
   {
-    "img": "images/north-macedonia.png",
-    "jawaban": "North Macedonia"
+    "bendera": "images/norway.png",
+    "negara": "Norway",
+    "wilayah": "Europe",
+    "ibukota": "Oslo"
   },
   {
-    "img": "images/norway.png",
-    "jawaban": "Norway"
+    "bendera": "images/oman.png",
+    "negara": "Oman",
+    "wilayah": "Asia",
+    "ibukota": "Muscat"
   },
   {
-    "img": "images/oman.png",
-    "jawaban": "Oman"
+    "bendera": "images/pakistan.png",
+    "negara": "Pakistan",
+    "wilayah": "Asia",
+    "ibukota": "Islamabad"
   },
   {
-    "img": "images/pakistan.png",
-    "jawaban": "Pakistan"
+    "bendera": "images/palau.png",
+    "negara": "Palau",
+    "wilayah": "Oceania",
+    "ibukota": "Ngerulmud"
   },
   {
-    "img": "images/palau.png",
-    "jawaban": "Palau"
+    "bendera": "images/palestine.png",
+    "negara": "Palestine",
+    "wilayah": "Asia",
+    "ibukota": "Ramallah"
   },
   {
-    "img": "images/palestine.png",
-    "jawaban": "Palestine"
+    "bendera": "images/panama.png",
+    "negara": "Panama",
+    "wilayah": "North America",
+    "ibukota": "Panama City"
   },
   {
-    "img": "images/panama.png",
-    "jawaban": "Panama"
+    "bendera": "images/papua-new-guinea.png",
+    "negara": "Papua New Guinea",
+    "wilayah": "Oceania",
+    "ibukota": "Port Moresby"
   },
   {
-    "img": "images/papua-new-guinea.png",
-    "jawaban": "Papua New Guinea"
+    "bendera": "images/paraguay.png",
+    "negara": "Paraguay",
+    "wilayah": "South America",
+    "ibukota": "Asuncion"
   },
   {
-    "img": "images/paraguay.png",
-    "jawaban": "Paraguay"
+    "bendera": "images/peru.png",
+    "negara": "Peru",
+    "wilayah": "South America",
+    "ibukota": "Lima"
   },
   {
-    "img": "images/peru.png",
-    "jawaban": "Peru"
+    "bendera": "images/philippines.png",
+    "negara": "Philippines",
+    "wilayah": "Asia",
+    "ibukota": "Manila"
   },
   {
-    "img": "images/philippines.png",
-    "jawaban": "Philippines"
+    "bendera": "images/poland.png",
+    "negara": "Poland",
+    "wilayah": "Europe",
+    "ibukota": "Warsaw"
   },
   {
-    "img": "images/poland.png",
-    "jawaban": "Poland"
+    "bendera": "images/portugal.png",
+    "negara": "Portugal",
+    "wilayah": "Europe",
+    "ibukota": "Lisbon"
   },
   {
-    "img": "images/portugal.png",
-    "jawaban": "Portugal"
+    "bendera": "images/qatar.png",
+    "negara": "Qatar",
+    "wilayah": "Asia",
+    "ibukota": "Doha"
   },
   {
-    "img": "images/qatar.png",
-    "jawaban": "Qatar"
+    "bendera": "images/republic-of-the-congo.png",
+    "negara": "Republic of the Congo",
+    "wilayah": "Africa",
+    "ibukota": "Brazzaville"
   },
   {
-    "img": "images/republic-of-the-congo.png",
-    "jawaban": "Republic of the Congo"
+    "bendera": "images/romania.png",
+    "negara": "Romania",
+    "wilayah": "Europe",
+    "ibukota": "Bucharest"
   },
   {
-    "img": "images/romania.png",
-    "jawaban": "Romania"
+    "bendera": "images/russia.png",
+    "negara": "Russia",
+    "wilayah": "Europe",
+    "ibukota": "Moscow"
   },
   {
-    "img": "images/russia.png",
-    "jawaban": "Russia"
+    "bendera": "images/rwanda.png",
+    "negara": "Rwanda",
+    "wilayah": "Africa",
+    "ibukota": "Kigali"
   },
   {
-    "img": "images/rwanda.png",
-    "jawaban": "Rwanda"
+    "bendera": "images/saint-kitts-and-nevis.png",
+    "negara": "Saint Kitts and Nevis",
+    "wilayah": "North America",
+    "ibukota": "Basseterre"
   },
   {
-    "img": "images/saint-kitts-and-nevis.png",
-    "jawaban": "Saint Kitts and Nevis"
+    "bendera": "images/saint-lucia.png",
+    "negara": "Saint Lucia",
+    "wilayah": "North America",
+    "ibukota": "Castries"
   },
   {
-    "img": "images/saint-lucia.png",
-    "jawaban": "Saint Lucia"
+    "bendera": "images/saint-vincent-and-the-grenadines.png",
+    "negara": "Saint Vincent and the Grenadines",
+    "wilayah": "North America",
+    "ibukota": "Kingstown"
   },
   {
-    "img": "images/saint-vincent-and-the-grenadines.png",
-    "jawaban": "Saint Vincent and the Grenadines"
+    "bendera": "images/samoa.png",
+    "negara": "Samoa",
+    "wilayah": "Oceania",
+    "ibukota": "Apia"
   },
   {
-    "img": "images/samoa.png",
-    "jawaban": "Samoa"
+    "bendera": "images/san-marino.png",
+    "negara": "San Marino",
+    "wilayah": "Europe",
+    "ibukota": "San Marino"
   },
   {
-    "img": "images/san-marino.png",
-    "jawaban": "San Marino"
+    "bendera": "images/sao-tome-and-principe.png",
+    "negara": "Sao Tome and Principe",
+    "wilayah": "Africa",
+    "ibukota": "Sao Tome"
   },
   {
-    "img": "images/sao-tome-and-principe.png",
-    "jawaban": "Sao Tome and Principe"
+    "bendera": "images/saudi-arabia.png",
+    "negara": "Saudi Arabia",
+    "wilayah": "Asia",
+    "ibukota": "Riyadh"
   },
   {
-    "img": "images/saudi-arabia.png",
-    "jawaban": "Saudi Arabia"
+    "bendera": "images/senegal.png",
+    "negara": "Senegal",
+    "wilayah": "Africa",
+    "ibukota": "Dakar"
   },
   {
-    "img": "images/senegal.png",
-    "jawaban": "Senegal"
+    "bendera": "images/serbia.png",
+    "negara": "Serbia",
+    "wilayah": "Europe",
+    "ibukota": "Belgrade"
   },
   {
-    "img": "images/serbia.png",
-    "jawaban": "Serbia"
+    "bendera": "images/seychelles.png",
+    "negara": "Seychelles",
+    "wilayah": "Africa",
+    "ibukota": "Victoria"
   },
   {
-    "img": "images/seychelles.png",
-    "jawaban": "Seychelles"
+    "bendera": "images/sierra-leone.png",
+    "negara": "Sierra Leone",
+    "wilayah": "Africa",
+    "ibukota": "Freetown"
   },
   {
-    "img": "images/sierra-leone.png",
-    "jawaban": "Sierra Leone"
+    "bendera": "images/singapore.png",
+    "negara": "Singapore",
+    "wilayah": "Asia",
+    "ibukota": "Singapore"
   },
   {
-    "img": "images/singapore.png",
-    "jawaban": "Singapore"
+    "bendera": "images/slovakia.png",
+    "negara": "Slovakia",
+    "wilayah": "Europe",
+    "ibukota": "Bratislava"
   },
   {
-    "img": "images/slovakia.png",
-    "jawaban": "Slovakia"
+    "bendera": "images/slovenia.png",
+    "negara": "Slovenia",
+    "wilayah": "Europe",
+    "ibukota": "Ljubljana"
   },
   {
-    "img": "images/slovenia.png",
-    "jawaban": "Slovenia"
+    "bendera": "images/solomon-islands.png",
+    "negara": "Solomon Islands",
+    "wilayah": "Oceania",
+    "ibukota": "Honiara"
   },
   {
-    "img": "images/solomon-islands.png",
-    "jawaban": "Solomon Islands"
+    "bendera": "images/somalia.png",
+    "negara": "Somalia",
+    "wilayah": "Africa",
+    "ibukota": "Mogadishu"
   },
   {
-    "img": "images/somalia.png",
-    "jawaban": "Somalia"
+    "bendera": "images/south-africa.png",
+    "negara": "South Africa",
+    "wilayah": "Africa",
+    "ibukota": "Bloemfontein"
   },
   {
-    "img": "images/south-africa.png",
-    "jawaban": "South Africa"
+    "bendera": "images/south-korea.png",
+    "negara": "South Korea",
+    "wilayah": "Asia",
+    "ibukota": "Seoul"
   },
   {
-    "img": "images/south-korea.png",
-    "jawaban": "South Korea"
+    "bendera": "images/south-sudan.png",
+    "negara": "South Sudan",
+    "wilayah": "Africa",
+    "ibukota": "Juba"
   },
   {
-    "img": "images/south-sudan.png",
-    "jawaban": "South Sudan"
+    "bendera": "images/spain.png",
+    "negara": "Spain",
+    "wilayah": "Europe",
+    "ibukota": "Madrid"
   },
   {
-    "img": "images/spain.png",
-    "jawaban": "Spain"
+    "bendera": "images/sri-lanka.png",
+    "negara": "Sri Lanka",
+    "wilayah": "Asia",
+    "ibukota": "Sri Jayawardenepura Kotte"
   },
   {
-    "img": "images/sri-lanka.png",
-    "jawaban": "Sri Lanka"
+    "bendera": "images/sudan.png",
+    "negara": "Sudan",
+    "wilayah": "Africa",
+    "ibukota": "Khartoum"
   },
   {
-    "img": "images/state-flag-of-lithuania.png",
-    "jawaban": "State flag of Lithuania"
+    "bendera": "images/suriname.png",
+    "negara": "Suriname",
+    "wilayah": "South America",
+    "ibukota": "Paramaribo"
   },
   {
-    "img": "images/sudan.png",
-    "jawaban": "Sudan"
+    "bendera": "images/sweden.png",
+    "negara": "Sweden",
+    "wilayah": "Europe",
+    "ibukota": "Stockholm"
   },
   {
-    "img": "images/suriname.png",
-    "jawaban": "Suriname"
+    "bendera": "images/switzerland.png",
+    "negara": "Switzerland",
+    "wilayah": "Europe",
+    "ibukota": "Bern"
   },
   {
-    "img": "images/sweden.png",
-    "jawaban": "Sweden"
+    "bendera": "images/syria.png",
+    "negara": "Syria",
+    "wilayah": "Asia",
+    "ibukota": "Damascus"
   },
   {
-    "img": "images/switzerland.png",
-    "jawaban": "Switzerland"
+    "bendera": "images/tajikistan.png",
+    "negara": "Tajikistan",
+    "wilayah": "Asia",
+    "ibukota": "Dushanbe"
   },
   {
-    "img": "images/syria.png",
-    "jawaban": "Syria"
+    "bendera": "images/tanzania.png",
+    "negara": "Tanzania",
+    "wilayah": "Africa",
+    "ibukota": "Dodoma"
   },
   {
-    "img": "images/tajikistan.png",
-    "jawaban": "Tajikistan"
+    "bendera": "images/thailand.png",
+    "negara": "Thailand",
+    "wilayah": "Asia",
+    "ibukota": "Bangkok"
   },
   {
-    "img": "images/tanzania.png",
-    "jawaban": "Tanzania"
+    "bendera": "images/timor-leste.png",
+    "negara": "Timor-Leste",
+    "wilayah": "Asia",
+    "ibukota": "Dili"
   },
   {
-    "img": "images/thailand.png",
-    "jawaban": "Thailand"
+    "bendera": "images/togo.png",
+    "negara": "Togo",
+    "wilayah": "Africa",
+    "ibukota": "Lome"
   },
   {
-    "img": "images/timor-leste.png",
-    "jawaban": "Timor-Leste"
+    "bendera": "images/tonga.png",
+    "negara": "Tonga",
+    "wilayah": "Oceania",
+    "ibukota": "Nuku'alofa"
   },
   {
-    "img": "images/togo.png",
-    "jawaban": "Togo"
+    "bendera": "images/trinidad-and-tobago.png",
+    "negara": "Trinidad and Tobago",
+    "wilayah": "North America",
+    "ibukota": "Port of Spain"
   },
   {
-    "img": "images/tonga.png",
-    "jawaban": "Tonga"
+    "bendera": "images/tunisia.png",
+    "negara": "Tunisia",
+    "wilayah": "Africa",
+    "ibukota": "Tunis"
   },
   {
-    "img": "images/trinidad-and-tobago.png",
-    "jawaban": "Trinidad and Tobago"
+    "bendera": "images/turkey.png",
+    "negara": "Turkey",
+    "wilayah": "Asia",
+    "ibukota": "Ankara"
   },
   {
-    "img": "images/tunisia.png",
-    "jawaban": "Tunisia"
+    "bendera": "images/turkmenistan.png",
+    "negara": "Turkmenistan",
+    "wilayah": "Asia",
+    "ibukota": "Ashgabat"
   },
   {
-    "img": "images/turkey.png",
-    "jawaban": "Turkey"
+    "bendera": "images/tuvalu.png",
+    "negara": "Tuvalu",
+    "wilayah": "Oceania",
+    "ibukota": "Funafuti"
   },
   {
-    "img": "images/turkmenistan.png",
-    "jawaban": "Turkmenistan"
+    "bendera": "images/uganda.png",
+    "negara": "Uganda",
+    "wilayah": "Africa",
+    "ibukota": "Kampala"
   },
   {
-    "img": "images/tuvalu.png",
-    "jawaban": "Tuvalu"
+    "bendera": "images/ukraine.png",
+    "negara": "Ukraine",
+    "wilayah": "Europe",
+    "ibukota": "Kyiv"
   },
   {
-    "img": "images/uganda.png",
-    "jawaban": "Uganda"
+    "bendera": "images/united-arab-emirates.png",
+    "negara": "United Arab Emirates",
+    "wilayah": "Asia",
+    "ibukota": "Abu Dhabi"
   },
   {
-    "img": "images/ukraine.png",
-    "jawaban": "Ukraine"
+    "bendera": "images/united-kingdom.png",
+    "negara": "United Kingdom",
+    "wilayah": "Europe",
+    "ibukota": "London"
   },
   {
-    "img": "images/united-arab-emirates.png",
-    "jawaban": "United Arab Emirates"
+    "bendera": "images/united-states.png",
+    "negara": "United States",
+    "wilayah": "North America",
+    "ibukota": "Washington, D.C."
   },
   {
-    "img": "images/united-kingdom.png",
-    "jawaban": "United Kingdom"
+    "bendera": "images/uruguay.png",
+    "negara": "Uruguay",
+    "wilayah": "South America",
+    "ibukota": "Montevideo"
   },
   {
-    "img": "images/united-states.png",
-    "jawaban": "United States"
+    "bendera": "images/uzbekistan.png",
+    "negara": "Uzbekistan",
+    "wilayah": "Asia",
+    "ibukota": "Tashkent"
   },
   {
-    "img": "images/uruguay.png",
-    "jawaban": "Uruguay"
+    "bendera": "images/vanuatu.png",
+    "negara": "Vanuatu",
+    "wilayah": "Insular Oceania",
+    "ibukota": "Port Vila"
   },
   {
-    "img": "images/uzbekistan.png",
-    "jawaban": "Uzbekistan"
+    "bendera": "images/vatican-city.png",
+    "negara": "Vatican City",
+    "wilayah": "Europe",
+    "ibukota": "Vatican City"
   },
   {
-    "img": "images/vanuatu.png",
-    "jawaban": "Vanuatu"
+    "bendera": "images/venezuela.png",
+    "negara": "Venezuela",
+    "wilayah": "South America",
+    "ibukota": "Caracas"
   },
   {
-    "img": "images/vatican-city.png",
-    "jawaban": "Vatican City"
+    "bendera": "images/vietnam.png",
+    "negara": "Vietnam",
+    "wilayah": "Asia",
+    "ibukota": "Hanoi"
   },
   {
-    "img": "images/venezuela.png",
-    "jawaban": "Venezuela"
+    "bendera": "images/yemen.png",
+    "negara": "Yemen",
+    "wilayah": "Asia",
+    "ibukota": "Aden"
   },
   {
-    "img": "images/vietnam.png",
-    "jawaban": "Vietnam"
+    "bendera": "images/zambia.png",
+    "negara": "Zambia",
+    "wilayah": "Africa",
+    "ibukota": "Lusaka"
   },
   {
-    "img": "images/yemen.png",
-    "jawaban": "Yemen"
-  },
-  {
-    "img": "images/zambia.png",
-    "jawaban": "Zambia"
-  },
-  {
-    "img": "images/zimbabwe.png",
-    "jawaban": "Zimbabwe"
+    "bendera": "images/zimbabwe.png",
+    "negara": "Zimbabwe",
+    "wilayah": "Africa",
+    "ibukota": "Harare"
   }
 ]
