@@ -1,0 +1,790 @@
+[
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_the_Taliban.svg",
+    "jawaban": "Afghanistan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Flag_of_Albania.svg",
+    "jawaban": "Albania"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Algeria.svg",
+    "jawaban": "Algeria"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Flag_of_Andorra_%28civil%29.svg",
+    "jawaban": "Andorra"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Flag_of_Angola.svg",
+    "jawaban": "Angola"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Antigua_and_Barbuda.svg",
+    "jawaban": "Antigua and Barbuda"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Flag_of_Argentina_%28civil%29.svg",
+    "jawaban": "Argentina"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Flag_of_Armenia.svg",
+    "jawaban": "Armenia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/88/Flag_of_Australia_%28converted%29.svg",
+    "jawaban": "Australia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/41/Flag_of_Austria.svg",
+    "jawaban": "Austria"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Azerbaijan.svg",
+    "jawaban": "Azerbaijan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahamas.svg",
+    "jawaban": "Bahamas"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Bahrain.svg",
+    "jawaban": "Bahrain"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Flag_of_Bangladesh.svg",
+    "jawaban": "Bangladesh"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Barbados.svg",
+    "jawaban": "Barbados"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/85/Flag_of_Belarus.svg",
+    "jawaban": "Belarus"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Belgium.svg",
+    "jawaban": "Belgium"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Flag_of_Belize.svg",
+    "jawaban": "Belize"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Benin.svg",
+    "jawaban": "Benin"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/91/Flag_of_Bhutan.svg",
+    "jawaban": "Bhutan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Bolivia.svg",
+    "jawaban": "Bolivia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bf/Flag_of_Bosnia_and_Herzegovina.svg",
+    "jawaban": "Bosnia and Herzegovina"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_Botswana.svg",
+    "jawaban": "Botswana"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg",
+    "jawaban": "Brazil"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg",
+    "jawaban": "Brunei"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Bulgaria.svg",
+    "jawaban": "Bulgaria"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Burkina_Faso.svg",
+    "jawaban": "Burkina Faso"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/50/Flag_of_Burundi.svg",
+    "jawaban": "Burundi"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/83/Flag_of_Cambodia.svg",
+    "jawaban": "Cambodia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg",
+    "jawaban": "Cameroon"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg",
+    "jawaban": "Canada"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Cape_Verde.svg",
+    "jawaban": "Cape Verde"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Central_African_Republic.svg",
+    "jawaban": "Central African Republic"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4b/Flag_of_Chad.svg",
+    "jawaban": "Chad"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/78/Flag_of_Chile.svg",
+    "jawaban": "Chile"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Flag_of_the_People%27s_Republic_of_China.svg",
+    "jawaban": "China"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Colombia.svg",
+    "jawaban": "Colombia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/94/Flag_of_the_Comoros.svg",
+    "jawaban": "Comoros"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Flag_of_Costa_Rica.svg",
+    "jawaban": "Costa Rica"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg",
+    "jawaban": "Croatia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bd/Flag_of_Cuba.svg",
+    "jawaban": "Cuba"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Cyprus.svg",
+    "jawaban": "Cyprus"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg",
+    "jawaban": "Czech Republic"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Flag_of_the_Democratic_Republic_of_the_Congo.svg",
+    "jawaban": "Democratic Republic of the Congo"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Denmark.svg",
+    "jawaban": "Denmark"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/34/Flag_of_Djibouti.svg",
+    "jawaban": "Djibouti"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Flag_of_Dominica.svg",
+    "jawaban": "Dominica"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Civil_Ensign_of_the_Dominican_Republic.svg",
+    "jawaban": "Dominican Republic"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Flag_of_Ecuador.svg",
+    "jawaban": "Ecuador"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Egypt.svg",
+    "jawaban": "Egypt"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Civil_Flag_of_El_Salvador.svg",
+    "jawaban": "El Salvador"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Equatorial_Guinea.svg",
+    "jawaban": "Equatorial Guinea"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/29/Flag_of_Eritrea.svg",
+    "jawaban": "Eritrea"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Flag_of_Estonia.svg",
+    "jawaban": "Estonia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Flag_of_Eswatini.svg",
+    "jawaban": "Eswatini"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/71/Flag_of_Ethiopia.svg",
+    "jawaban": "Ethiopia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Flag_of_Fiji.svg",
+    "jawaban": "Fiji"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Finland.svg",
+    "jawaban": "Finland"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg",
+    "jawaban": "France"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/04/Flag_of_Gabon.svg",
+    "jawaban": "Gabon"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_The_Gambia.svg",
+    "jawaban": "Gambia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Georgia.svg",
+    "jawaban": "Georgia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg",
+    "jawaban": "Germany"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Ghana.svg",
+    "jawaban": "Ghana"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Flag_of_Greece.svg",
+    "jawaban": "Greece"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Grenada.svg",
+    "jawaban": "Grenada"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Civil_ensign_of_Guatemala.svg",
+    "jawaban": "Guatemala"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg",
+    "jawaban": "Guinea"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bissau.svg",
+    "jawaban": "Guinea-Bissau"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_Guyana.svg",
+    "jawaban": "Guyana"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flag_of_Haiti_%28civil%29.svg",
+    "jawaban": "Haiti"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Honduras_%281949%E2%80%932022%2C_2026%E2%80%93present%29.svg",
+    "jawaban": "Honduras"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Flag_of_Hungary.svg",
+    "jawaban": "Hungary"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Iceland.svg",
+    "jawaban": "Iceland"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg",
+    "jawaban": "India"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Indonesia.svg",
+    "jawaban": "Indonesia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/be/Flag_of_Iran_%28official%29.svg",
+    "jawaban": "Iran"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Flag_of_Iraq.svg",
+    "jawaban": "Iraq"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/45/Flag_of_Ireland.svg",
+    "jawaban": "Ireland"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Flag_of_Israel.svg",
+    "jawaban": "Israel"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg",
+    "jawaban": "Italy"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_C%C3%B4te_d%27Ivoire.svg",
+    "jawaban": "Ivory Coast"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_Jamaica.svg",
+    "jawaban": "Jamaica"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg",
+    "jawaban": "Japan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Flag_of_Jordan.svg",
+    "jawaban": "Jordan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kazakhstan.svg",
+    "jawaban": "Kazakhstan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Kenya.svg",
+    "jawaban": "Kenya"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Flag_of_Kiribati.svg",
+    "jawaban": "Kiribati"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Flag_of_Kuwait.svg",
+    "jawaban": "Kuwait"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Flag_of_Kyrgyzstan.svg",
+    "jawaban": "Kyrgyzstan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/56/Flag_of_Laos.svg",
+    "jawaban": "Laos"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Latvia.svg",
+    "jawaban": "Latvia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/59/Flag_of_Lebanon.svg",
+    "jawaban": "Lebanon"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Flag_of_Lesotho.svg",
+    "jawaban": "Lesotho"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Flag_of_Liberia.svg",
+    "jawaban": "Liberia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Libya.svg",
+    "jawaban": "Libya"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/47/Flag_of_Liechtenstein.svg",
+    "jawaban": "Liechtenstein"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg",
+    "jawaban": "Lithuania"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/da/Flag_of_Luxembourg.svg",
+    "jawaban": "Luxembourg"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar.svg",
+    "jawaban": "Madagascar"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Flag_of_Malawi.svg",
+    "jawaban": "Malawi"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Malaysia.svg",
+    "jawaban": "Malaysia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Flag_of_Maldives.svg",
+    "jawaban": "Maldives"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_Mali.svg",
+    "jawaban": "Mali"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Malta.svg",
+    "jawaban": "Malta"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Flag_of_the_Marshall_Islands.svg",
+    "jawaban": "Marshall Islands"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/43/Flag_of_Mauritania.svg",
+    "jawaban": "Mauritania"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/77/Flag_of_Mauritius.svg",
+    "jawaban": "Mauritius"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Mexico.svg",
+    "jawaban": "Mexico"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federated_States_of_Micronesia.svg",
+    "jawaban": "Micronesia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Moldova.svg",
+    "jawaban": "Moldova"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Monaco.svg",
+    "jawaban": "Monaco"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Flag_of_Mongolia.svg",
+    "jawaban": "Mongolia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Montenegro.svg",
+    "jawaban": "Montenegro"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg",
+    "jawaban": "Morocco"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Mozambique.svg",
+    "jawaban": "Mozambique"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Flag_of_Myanmar.svg",
+    "jawaban": "Myanmar"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Namibia.svg",
+    "jawaban": "Namibia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Uruguay.svg",
+    "jawaban": "National Pavilion"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg",
+    "jawaban": "Nauru"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Flag_of_Nepal.svg",
+    "jawaban": "Nepal"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/20/Flag_of_the_Netherlands.svg",
+    "jawaban": "Netherlands"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg",
+    "jawaban": "New Zealand"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/19/Flag_of_Nicaragua.svg",
+    "jawaban": "Nicaragua"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Flag_of_Niger.svg",
+    "jawaban": "Niger"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_Nigeria.svg",
+    "jawaban": "Nigeria"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/44/Flag_of_North_Korea_%28March_2026-%29.svg",
+    "jawaban": "North Korea"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/79/Flag_of_North_Macedonia.svg",
+    "jawaban": "North Macedonia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Norway.svg",
+    "jawaban": "Norway"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Flag_of_Oman.svg",
+    "jawaban": "Oman"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg",
+    "jawaban": "Pakistan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Palau.svg",
+    "jawaban": "Palau"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/00/Flag_of_Palestine.svg",
+    "jawaban": "Palestine"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Flag_of_Panama.svg",
+    "jawaban": "Panama"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg",
+    "jawaban": "Papua New Guinea"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/27/Flag_of_Paraguay.svg",
+    "jawaban": "Paraguay"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Flag_of_Peru.svg",
+    "jawaban": "Peru"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/99/Flag_of_the_Philippines.svg",
+    "jawaban": "Philippines"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/1/12/Flag_of_Poland.svg",
+    "jawaban": "Poland"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Flag_of_Portugal_%28official%29.svg",
+    "jawaban": "Portugal"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/65/Flag_of_Qatar.svg",
+    "jawaban": "Qatar"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/92/Flag_of_the_Republic_of_the_Congo.svg",
+    "jawaban": "Republic of the Congo"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/73/Flag_of_Romania.svg",
+    "jawaban": "Romania"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/f/f3/Flag_of_Russia.svg",
+    "jawaban": "Russia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Rwanda.svg",
+    "jawaban": "Rwanda"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitts_and_Nevis.svg",
+    "jawaban": "Saint Kitts and Nevis"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_Saint_Lucia.svg",
+    "jawaban": "Saint Lucia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vincent_and_the_Grenadines.svg",
+    "jawaban": "Saint Vincent and the Grenadines"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg",
+    "jawaban": "Samoa"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Flag_of_San_Marino.svg",
+    "jawaban": "San Marino"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Flag_of_Saudi_Arabia.svg",
+    "jawaban": "Saudi Arabia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Flag_of_Senegal.svg",
+    "jawaban": "Senegal"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/36/Civil_flag_of_Serbia.svg",
+    "jawaban": "Serbia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Flag_of_Seychelles.svg",
+    "jawaban": "Seychelles"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/17/Flag_of_Sierra_Leone.svg",
+    "jawaban": "Sierra Leone"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/48/Flag_of_Singapore.svg",
+    "jawaban": "Singapore"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/e/e6/Flag_of_Slovakia.svg",
+    "jawaban": "Slovakia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Flag_of_Slovenia.svg",
+    "jawaban": "Slovenia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg",
+    "jawaban": "Solomon Islands"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Flag_of_Somalia.svg",
+    "jawaban": "Somalia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/af/Flag_of_South_Africa.svg",
+    "jawaban": "South Africa"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_South_Korea.svg",
+    "jawaban": "South Korea"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Flag_of_South_Sudan.svg",
+    "jawaban": "South Sudan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/7/70/Flag_of_Spain_%28civil%29.svg",
+    "jawaban": "Spain"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Sri_Lanka.svg",
+    "jawaban": "Sri Lanka"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/15/Flag_of_Poland_%28with_coat_of_arms%29.svg",
+    "jawaban": "State flag and Civil flag of Poland"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_Lithuania_%28state%29.svg",
+    "jawaban": "State flag of Lithuania"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Sudan.svg",
+    "jawaban": "Sudan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/60/Flag_of_Suriname.svg",
+    "jawaban": "Suriname"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/en/4/4c/Flag_of_Sweden.svg",
+    "jawaban": "Sweden"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/08/Flag_of_Switzerland_%28Pantone%29.svg",
+    "jawaban": "Switzerland"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg",
+    "jawaban": "Syria"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg",
+    "jawaban": "Sao Tome and Principe"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Flag_of_Tajikistan.svg",
+    "jawaban": "Tajikistan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tanzania.svg",
+    "jawaban": "Tanzania"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Flag_of_Thailand.svg",
+    "jawaban": "Thailand"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor.svg",
+    "jawaban": "Timor-Leste"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/68/Flag_of_Togo.svg",
+    "jawaban": "Togo"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg",
+    "jawaban": "Tonga"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/64/Flag_of_Trinidad_and_Tobago.svg",
+    "jawaban": "Trinidad and Tobago"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Flag_of_Tunisia.svg",
+    "jawaban": "Tunisia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Flag_of_Turkey.svg",
+    "jawaban": "Turkey"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Turkmenistan.svg",
+    "jawaban": "Turkmenistan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/3/38/Flag_of_Tuvalu.svg",
+    "jawaban": "Tuvalu"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Flag_of_Uganda.svg",
+    "jawaban": "Uganda"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/4/49/Flag_of_Ukraine.svg",
+    "jawaban": "Ukraine"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_United_Arab_Emirates.svg",
+    "jawaban": "United Arab Emirates"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Flag_of_the_United_Kingdom_%281-2%29.svg",
+    "jawaban": "United Kingdom"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/9/96/Flag_of_the_United_States_%28DDD-F-416E_specifications%29.svg",
+    "jawaban": "United States"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/84/Flag_of_Uzbekistan.svg",
+    "jawaban": "Uzbekistan"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Flag_of_Vanuatu_%28official%29.svg",
+    "jawaban": "Vanuatu"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Vatican_City_%282023%E2%80%93present%29.svg",
+    "jawaban": "Vatican City"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg",
+    "jawaban": "Venezuela"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/2/21/Flag_of_Vietnam.svg",
+    "jawaban": "Vietnam"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/8/89/Flag_of_Yemen.svg",
+    "jawaban": "Yemen"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Zambia.svg",
+    "jawaban": "Zambia"
+  },
+  {
+    "img": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Flag_of_Zimbabwe.svg",
+    "jawaban": "Zimbabwe"
+  }
+]
